@@ -1,26 +1,15 @@
-# 😎 Cool Box Profile Card
+# 💼 Cool Box Profile Card – Karthik S Kumar
 
-This is a stylish, modern profile card created using HTML and CSS, featuring an embedded profile picture from the `images/` folder.
+A responsive and stylish profile card built using **HTML** and **CSS**, featuring an image and personal information — part of the MDN CSS Building Blocks course.
 
 ## 📸 Preview
 
-> _(Add screenshot here if available, or leave out)_
+> _(Add a screenshot or GIF of your card here if needed)_
 
-## 🖼️ Image Used
+## 👤 Author
 
-- `images/avatar.png` – profile photo shown on the card
+**Karthik S Kumar**  
+Cybersecurity Enthusiast | Web Developer
 
-## 🚀 Features
-
-- Avatar image with circular border
-- CSS animation
-- Stylish button and layout
-- Fully responsive for small screens
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-
-## 📁 Folder Structure
+## 📂 Folder Structure
 
